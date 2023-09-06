@@ -1,4 +1,4 @@
-name: Produce CV pdf
+name: Semver checks
 
 on:
   push:
